@@ -666,4 +666,9 @@ footer{
     h2{
         font-size:42px !important;
     }
+}.portfolio-category{
+    font-size:40px;
+    color:white;
+    text-align:center;
+    margin:70px 0 30px;
 }
